@@ -29,5 +29,5 @@ git switch branchName - switches to a branch
 git merge branchName - merges branch into branch we are on
 git branch -d branchName - deletes branch if merged in master branch
 
-
+git checkout commitID - seeing state of the code in a particular commit
 
