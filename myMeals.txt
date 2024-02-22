@@ -1,2 +1,3 @@
 breakfast - cereal
 lunch - pizza
+Dinner - rice
