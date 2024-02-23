@@ -31,3 +31,8 @@ git branch -d branchName - deletes branch if merged in master branch
 
 git checkout commitID - seeing state of the code in a particular commit
 
+Remote Repositories
+
+git remote add origin URLtoRemoteRepo - link remote repo to local repo
+git branch -M main - renaming 'master' branch to 'main'
+git push -u origin main - pushing into origin main branch
